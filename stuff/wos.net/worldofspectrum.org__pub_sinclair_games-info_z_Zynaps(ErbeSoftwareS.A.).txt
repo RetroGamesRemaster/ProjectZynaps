@@ -1,0 +1,81 @@
+ZYNAPS
+
+SPECTRUM, AMSTRAD, COMMODORE
+
+
+CARGA
+
+Spectrum: LOAD "" ENTER.
+
+Amstrad: CTRL + ENTER.
+
+Commodore: Pulsa SHIFT y RUN/STOP, y luego PLAY en al reproductor.
+
+
+CONTROLES
+
+Usa un joystick o define tus propias teclas (Spectrum y Amstrad sólo). Las teclas predefinidas al comienzo del juego son:
+
+Spectrum	Commodore	Efecto
+Amstrad
+
+Teclas 1 y 2	f1		Uno o dos jugadores.
+—		f2		Uno o dos Joysticks.
+Tecla 3		—		Definir teclas.
+Tecla 4		—		Acceso a tabla honor.
+Disparo		Disparo		Comenzar partida.
+
+Durante la partida, el botón de disparo dispara armas, o cuando se mantiene pulsado, activa el recogedor de combustible. Algunas armas requieren que se mantenga el botón de disparo pulsado antes de que funcionen. Para pausar el juego durante la partida, pulsa la tecla 4 (Spectrum, Amstrad) o RUN/STOP (C-64). Pulsa disparo para seguir jugando, o la tecla Q para abandonar definitivamente la partida (CLR/HOME en el Commodore).
+
+
+EL CAZA DE ATAQUE SCORPION
+
+El Scorpion MK1 tiene varios equipos sofisticados y mucho armamento, todo ello alimentado por un recoge-combustible interno.
+
+Propulsión: Los motores principales pueden ser operados a cuatro niveles de potencia.
+
+
+ARMAS
+
+Lasers: Ideales para disparar enemigos a mogollón. Estos lasers también tienen cuatro niveles de potencia.
+
+Bombas de plasma: Dos lanza-bombas independientes que dan una tremenda potencia destructiva contra objetivos en tierra.
+
+Misiles autopropulsados: Estos misiles llevan pequeñas cabezas nucleares que una vez se «enganchan» a un blanco aseguran su destrucción.
+
+Misiles inteligentes: Estos misiles son tan listos que automáticamente «enganchan» cualquier blanco que son capaces de destruir.
+
+EL RECOGE-COMBUSTIBLE: Proporciona la energía necesaria para activar los sistemas de propulsión del Scorpion. Para activar alguno de los sistemas de armamento o propulsión recoge suficiente combustible para remarcar el equipo deseado en el INDICADOR DE ACTIVACION DE ARMAMENTO, luego recoge una unidad más de combustible una vez en modo ACTIVACION.
+
+Para entrar en modo ACTIVACION mantén pulsado el botón de disparo hasta que la nave cambie de amarillo a azul (de azul a gris parpadeante en el Commodore) y sigue manteniéndolo pulsado mientras recoges combustible. El nuevo equipo quedará recogido o su potencia aumentada y el indicador volverá a la posición primera «Speedup». EL INDICADOR DE ACTIVACION DE ARMAMENTO muestra en orden:
+SPEEDUP		Aceleración.
+FIREPOWER	Incrementar poder láser.
+BOMBS		Activar lanza-bombas.
+MISSILES	Activar búsqueda automática de blancos.
+SEEKER		Activar misil «listo».
+
+
+LOS ENEMIGOS
+
+Naves espaciales: Pequeñas naves que pueden normalmente ser destruidas con un disparo de láser, bomba o misil. Los misiles listos no pueden «engancharse».
+
+Instalaciones terrestres: Peligrosas instalaciones que necesitan de varios disparos de láser o una sola bomba o misil listo para destruirlas.
+
+Naves de mando enemigas: Grandes naves espaciales, fuertemente armadas y protegidas. Se pueden destruir con múltiples disparos de láser o misiles.
+
+Nave nodriza: Enormes naves enemigas; más grandes que las anteriores.
+
+Peligros naturales: Sobre todo asteroides y similares.  Conviene mantenerse bien alejado.
+
+
+PUNTUACION
+
+Se consiguen puntos por destruir, enemigos y puntos adicionales por destruir formaciones enteras de alienígenas. A los 10.000 puntos se consigue una vida extra, y luego otra cada 20.000 puntos adicionales.
+
+
+© 1987 Hewson Consultants.
+
+
+Prohibida la reproducción, transmisión, alquiler o préstamo de este programa sin la autorización expresa de ERBE SOFTWARE, S. A.
+
+ERBE SOFTWARE. S. A. Núñez Morgado. 11 - 28036 Madrid
